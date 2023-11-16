@@ -88,7 +88,8 @@ Provide educational resources within the application to help users understand th
 
 **MINDMAP:**
 
-![WhatsApp Image 2023-11-16 at 1 03 39 PM](https://github.com/Shanid23/IoT-based-Low-cost-ECG-and-Heart-monitoring-system-with-ESP32-/assets/113709805/028dc07f-6f45-4f89-b9ae-b91abec48b64)
+![WhatsApp Image 2023-11-16 at 1 34 17 PM](https://github.com/Shanid23/IoT-based-Low-cost-ECG-and-Heart-monitoring-system-with-ESP32-/assets/113709805/d7084699-8f5c-4fd3-a43f-014b87b5a235)
+
 
 **FLOWCHART:**
 
