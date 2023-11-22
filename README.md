@@ -44,10 +44,6 @@ Create a data logging feature to store ECG data over time, facilitating historic
 
 Integrate cloud storage for ECG data, allowing users to access their information from multiple devices and enabling remote monitoring by healthcare professionals.
 
-**Bluetooth Connectivity:*
-
-Develop power-saving features to optimize battery life, including sleep modes and low-power states, particularly for wearable applications.
-
 **User Authentication and Privacy:*
 
 Implement user authentication mechanisms to ensure secure access to ECG data and prioritize user privacy in compliance with relevant regulations.
